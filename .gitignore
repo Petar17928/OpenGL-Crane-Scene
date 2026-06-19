@@ -1,0 +1,27 @@
+. 
+# Visual Studio
+.vs/
+*.ipch
+*.suo
+*.user
+*.userosscache
+*.VC.db
+
+# Build folders
+Debug/
+Release/
+x64/
+out/
+build/
+
+# C++ objects
+*.obj
+*.o
+*.pdb
+*.ilk
+
+# Logs
+*.log
+
+# OpenGL / assets (ako ne želiš cache)
+*.cache
